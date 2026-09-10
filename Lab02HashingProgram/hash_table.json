@@ -1,0 +1,14 @@
+[
+    {
+        "filepath": "test_files/file1.txt",
+        "hash": "10d573cb1ae0c8eba6aaa1ed719719513d699766612db77be7142735934bfd53"
+    },
+    {
+        "filepath": "test_files/file3.txt",
+        "hash": "c7ab736831af1c90281a4a702538782b33b532c90e98de0c233836fe37187a0e"
+    },
+    {
+        "filepath": "test_files/file2.txt",
+        "hash": "d54ba39ac5cde4d82517fe913b612ad898f8cc46872b87dbe715dd42fc16fd3d"
+    }
+]
